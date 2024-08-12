@@ -1,0 +1,8 @@
+.priceProduct {
+    color: rgb(177, 10, 0);
+}
+.card-image {
+    object-fit: cover;
+    width: 250px;
+    height: 250px;
+}
